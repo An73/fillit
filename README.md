@@ -27,6 +27,7 @@ Because each Tetrimino fills only 4 of the 16 available boxes, it is possible to
 the same Tetrimino in multiple ways. However, a rotated Tetrimino describes a different
 Tetrimino from the original, in the case of this project. This means no rotation is possible
 on a Tetrimino, when you will arrange it with the others.
+
 Those Tetriminos are then perfectly equivalents on every aspect:
 <img width="602" alt="2018-07-03 17 25 50" src="https://user-images.githubusercontent.com/33597605/42225846-28f8003a-7ee6-11e8-9165-1015e81ada5f.png">
 
