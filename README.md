@@ -51,5 +51,6 @@ To start with a program using a makefile
 This program display the smallest assembled square (for this I used backtrack algorithm) on the standard output. To
 identify each Tetrimino in the square solution, i assigned a capital letter to each
 Tetrimino, starting with ’A’ and increasing for each new Tetrimino.
+
 <img width="776" alt="2018-07-03 17 40 55" src="https://user-images.githubusercontent.com/33597605/42226697-4d221732-7ee8-11e8-8499-c21f5e3adfb8.png">
 
